@@ -10,3 +10,5 @@ BRemote.app.src.main.java.com.fwsoftware.bremote.MainActivity.java.socketIP.
 -Button titles are not English.
 
 -Text input simply does that send the text message and pressing enter key request.
+
+-Some comments for codes.
